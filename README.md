@@ -15,17 +15,17 @@
 
 <h1 align="center"> 🔗 Links 🔗 </h1>
 <a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan/">
-<img border="0" alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="55" height="55">
+<img border="0" alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="35" height="35">
 </a>
 <br>
 <a href="https://www.ilteriskaanpehlivan.com.tr/">
-<img border="0" alt="IKP" src="https://www.ilteriskaanpehlivan.com.tr/wp-content/uploads/cropped-ikplogodeneme-2-32x32.png" width="55" height="55">
+<img border="0" alt="IKP" src="https://www.ilteriskaanpehlivan.com.tr/wp-content/uploads/cropped-ikplogodeneme-2-32x32.png" width="35" height="35">
 </a>
 <br>
 <a href="https://app.hackthebox.com/users/551538">
-<img border="0" alt="HackTheBox" src="https://media-exp2.licdn.com/dms/image/C4D0BAQEuMmUvlz--8A/company-logo_200_200/0/1641810311920?e=2147483647&v=beta&t=HZzx3SrHXrFBo2DiZd1snqQ2CnaXZQY1aEOYK1nrhaU" width="55" height="55">
+<img border="0" alt="HackTheBox" src="https://media-exp2.licdn.com/dms/image/C4D0BAQEuMmUvlz--8A/company-logo_200_200/0/1641810311920?e=2147483647&v=beta&t=HZzx3SrHXrFBo2DiZd1snqQ2CnaXZQY1aEOYK1nrhaU" width="35" height="35">
 </a>
 <br>
 <a href="https://tryhackme.com/p/ikpehlivan">
-<img border="0" alt="TryHackMe" src="https://miro.medium.com/max/824/1*1xQIcXZHHUFPXCi2sCkjfA.png" width="105" height="105">
+<img border="0" alt="TryHackMe" src="https://miro.medium.com/max/824/1*1xQIcXZHHUFPXCi2sCkjfA.png" width="35" height="35">
 </a>
