@@ -14,4 +14,6 @@
 - Python</p>
 
 <h1 align="center"> 🔗 Links 🔗 </h1>
-<a align="left" img width="55" height="55" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"> href=https://www.linkedin.com/in/ilteris-kaan-pehlivan/> </a>
+<a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan/">
+<img border="0" alt="LinkedIn" src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="55" height="55">
+</a>
