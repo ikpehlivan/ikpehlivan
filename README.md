@@ -27,5 +27,5 @@
 </a>
 &emsp;
 <a href="https://tryhackme.com/p/ikpehlivan">
-<img border="0" alt="TryHackMe" src="https://miro.medium.com/max/824/1*1xQIcXZHHUFPXCi2sCkjfA.png" width="35" height="35">
+<img border="0" alt="TryHackMe" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" width="35" height="35">
 </a>
