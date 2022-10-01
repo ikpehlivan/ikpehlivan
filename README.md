@@ -13,7 +13,7 @@
 110</p>
 
 <h1 align="center"> 🛠 Security Skills 🛠 </h1>
-<p>Web Application Security<br>
+<p>- Web Application Security<br>
 Cyber Threat Intelligence<br>
 System and Network Security<br>
 Penetration Testing</p>
