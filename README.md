@@ -29,7 +29,7 @@
 <img border="0" alt="HackTheBox" src="https://media-exp2.licdn.com/dms/image/C4D0BAQEuMmUvlz--8A/company-logo_200_200/0/1641810311920?e=2147483647&v=beta&t=HZzx3SrHXrFBo2DiZd1snqQ2CnaXZQY1aEOYK1nrhaU" width="25" height="25">
 </a>
 <br>
-<h6>- TryHackMe</h6>
+<h6 font-size: 5px>- TryHackMe</h6>
 <a href="https://tryhackme.com/p/ikpehlivan">
 <img border="0" alt="TryHackMe" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" width="25" height="25">
 </a>
