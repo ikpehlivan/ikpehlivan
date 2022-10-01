@@ -1,9 +1,3 @@
-
-<style>
-.center {
- text-align: center
-}
-</style>
 <h1 class="center"> 🕵️‍♂️ Who Am I 🕵️‍♂️ </h1>
 <p>01001001001001110110110
 10010000001100001001000
