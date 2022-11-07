@@ -2,16 +2,16 @@
 <p>SSdtIFBlbnRlc3Rlci4=</p>
 
 <h1 align="center"> 🔐 Security Skills 🔐 </h1>
-<p>- Web Application Security<br>
-- Cyber Threat Intelligence<br>
-- System and Network Security<br>
-- Penetration Testing</p>
+<p>Web Application Security<br>
+Cyber Threat Intelligence<br>
+System and Network Security<br>
+Penetration Testing</p>
 
 <h1 align="center"> 💻 Software Skills 💻 </h1>
-<p>- JavaScript (Node.js & React)<br>
-- HTML & CSS<br>
-- Java (Retrofit & Glide)<br>
-- Python (django & Flask)</p>
+<p>JavaScript (Node.js & React)<br>
+HTML & CSS<br>
+Java (Retrofit & Glide)<br>
+Python (django & Flask)</p>
 
 <h1 align="center"> 🔗 Links 🔗 </h1>
 <h6 font-size: 5px>- LinkedIn</h6>
