@@ -23,7 +23,6 @@ Python (django & Flask)</p>
 <a href="https://tryhackme.com/p/ikpehlivan">
 <img border="0" alt="TryHackMe" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" width="25" height="25">
 </a>
-<br>
 <a href="https://www.ilteriskaanpehlivan.com.tr/">
 <img border="0" alt="IKP" src="https://www.ilteriskaanpehlivan.com.tr/wp-content/uploads/cropped-ikplogodeneme-2-32x32.png" width="25" height="25">
 </a>
