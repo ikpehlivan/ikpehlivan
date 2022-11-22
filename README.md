@@ -11,7 +11,8 @@ Penetration Testing</p>
 <p>JavaScript (Node.js & React)<br>
 HTML & CSS<br>
 Java (Retrofit & Glide)<br>
-Python (django & Flask)</p>
+Python (django & Flask
+  Flask)</p>
 
 <h1 align="center"> 🔗 Links 🔗 </h1>
 <a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan/">
