@@ -9,8 +9,8 @@ Penetration Testing</p>
 
 <h1 align="center"> 💻 Software Skills 💻 </h1>
 <p>JavaScript (<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="11" height="11" alt="NodeJS" /></a> & <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="11" height="11" alt="React" /></a> & <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="11" height="11" alt="Express" /></a>)<br>
-HTML & CSS<br>
-Java (Retrofit & Glide)<br>
+HTML/CSS<br>
+Java<br>
 Python (<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="11" height="11" alt="Django" /></a> & <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="11" height="11" alt="Flask" /></a>)</p>
 
 <h1 align="center"> 🔗 Links 🔗 </h1>
