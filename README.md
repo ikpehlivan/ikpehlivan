@@ -27,3 +27,6 @@ Penetration Testing</p>
 <a href="https://www.ilteriskaanpehlivan.com.tr/">
 <img border="0" alt="IKP" src="https://www.ilteriskaanpehlivan.com.tr/wp-content/uploads/cropped-ikplogodeneme-2-32x32.png" width="25" height="25">
 </a>
+<a href="https://medium.com/@ikpehlivan">
+<img border="0" alt="IKP" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" width="25" height="25">
+</a>
