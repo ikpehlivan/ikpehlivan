@@ -25,7 +25,7 @@ Penetration Testing</p>
 <img border="0" alt="TryHackMe" src="https://tryhackme-images.s3.amazonaws.com/user-avatars/af7feb2c43a2c7d5f111b98ccbd15048.png" width="25" height="25">
 </a>
 <a href="https://www.ilteriskaanpehlivan.com.tr/">
-<img border="0" alt="IKP" src="https://www.ilteriskaanpehlivan.com.tr/wp-content/uploads/cropped-ikplogodeneme-2-32x32.png" width="25" height="25">
+<img border="0" alt="IKP" src="https://i.hizliresim.com/k0uqqt1.png" width="25" height="25">
 </a>
 <a href="https://medium.com/@ikpehlivan">
 <img border="0" alt="IKP" src="https://miro.medium.com/max/2400/1*6_fgYnisCa9V21mymySIvA.png" width="25" height="25">
