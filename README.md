@@ -38,7 +38,7 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ---
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ikpehlivan&show_icons=true&theme=dark)
+[![ikpehlivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikpehlivan&show_icons=true&theme=radical&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
