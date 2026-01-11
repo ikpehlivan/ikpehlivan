@@ -1,5 +1,5 @@
 # 🕵️‍♂️ Who Am I 🕵️‍♂️
-# Hi there, I'm [Adın Soyadın] 👋
+# Hi there, I'm Ilteris Kaan Pehlivan 👋
 ### Penetration Tester | Bug Bounty Hunter | Security Researcher
 
 I am a results-driven **Penetration Tester** with over three years of corporate experience in identifying, assessing, and mitigating security vulnerabilities. I specialize in offensive security, focusing on web applications and network environments.
@@ -37,6 +37,4 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([LinkedInLinkin])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]([TwitterLinkin])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@adresin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[LinkedInLinkin](https://www.linkedin.com/in/ilteris-kaan-pehlivan)])
