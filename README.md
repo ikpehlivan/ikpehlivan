@@ -21,7 +21,13 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 - **Coding:** Python (Scripting), Bash, JavaScript (Exploitation), Java
 
 ---
+### 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 
+---
 ### 🏆 Certifications & Achievements
 - **eMAPT**
 - **eWPTX**
