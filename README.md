@@ -25,6 +25,9 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 ### 🏆 Certifications & Achievements
@@ -37,7 +40,8 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ---
 
 ### 📈 GitHub Stats
-[![ikpehlivan's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ikpehlivan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Metrics](https://metrics.lecoq.io/ikpehlivan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FIstanbul)
+
 
 ---
 
