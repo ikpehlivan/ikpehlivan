@@ -32,8 +32,8 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 - **eMAPT**
 - **eWPTX**
 - **C-AI/MLPen**
-- **HackerOne Profile:** [[Profil Linkin](https://hackerone.com/ilterispehlivan?type=user)]
-- **TryHackMe:** [[Link veya Rank](https://tryhackme.com/p/ikpehlivan)]
+- **HackerOne Profile:** [[Account Link](https://hackerone.com/ilterispehlivan?type=user)]
+- **TryHackMe:** [[Account Link](https://tryhackme.com/p/ikpehlivan)]
 
 ---
 
@@ -43,4 +43,4 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[LinkedInLinkin](https://www.linkedin.com/in/ilteris-kaan-pehlivan)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[Account Link](https://www.linkedin.com/in/ilteris-kaan-pehlivan)])
