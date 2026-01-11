@@ -40,10 +40,12 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ---
 
 ### 📈 GitHub Stats
-![GitHub Metrics](https://metrics.lecoq.io/ikpehlivan?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&config.timezone=Europe%2FIstanbul)
-
+![Commits](https://img.shields.io/badge/Commits-500%2B-green?style=for-the-badge&logo=github)
+![Pull Requests](https://img.shields.io/badge/PRs-25%2B-blue?style=for-the-badge&logo=github)
+![Stars](https://img.shields.io/badge/Stars-150%2B-yellow?style=for-the-badge&logo=github)
+![Followers](https://img.shields.io/badge/Followers-100%2B-orange?style=for-the-badge&logo=github)
 
 ---
 
 ### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([[Account Link](https://www.linkedin.com/in/ilteris-kaan-pehlivan)])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/ilteris-kaan-pehlivan)])
