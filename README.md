@@ -9,9 +9,9 @@
 
 | 🛡️ Security Expertise | 💻 Technical Stack | 🏆 Top Certs |
 | :--- | :--- | :--- |
-| **Web Pentest** | **Python/Java/Bash** | **eMAPT** |
-| **Mobile Security** | **Kali/Parrot OS** | **eWPTX** |
-| **Network Audits** | **Docker/AWS** | **C-AI/MLPen** |
+| **Web Pentest** | **Python & Java & Bash** | **eMAPT** |
+| **Mobile Security** | **Kali & Parrot OS** | **eWPTX** |
+| **Network Audits** | **Docker & AWS** | **C-AI/MLPen** |
 
 ---
 
