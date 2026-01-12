@@ -1,51 +1,52 @@
-# 🕵️‍♂️ Who Am I 🕵️‍♂️
-# Hi there, I'm Ilteris Kaan Pehlivan 👋
-### Penetration Tester | Bug Bounty Hunter | Security Researcher
+<div align="center">
 
-I am a results-driven **Penetration Tester** with over three years of corporate experience in identifying, assessing, and mitigating security vulnerabilities. I specialize in offensive security, focusing on web applications and network environments.
+# 🕵️‍♂️ Ilteris Kaan Pehlivan
+### `Penetration Tester | Bug Bounty Hunter | Security Researcher`
 
----
-
-### 🛡️ Professional Focus
-* **Web Application Security:** Deep understanding of OWASP Top 10, manual exploitation, and business logic vulnerabilities.
-* **Network Pentesting:** Vulnerability assessment, post-exploitation, and internal/external infrastructure testing.
-* **Bug Bounty:** Active **HackerOne** researcher with a focus on vulnerabilities.
-* **Red Teaming:** Exploring new attack vectors to improve defensive resilience.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Offensive+Security+Expert;Bug+Bounty+Hunter;Vulnerability+Researcher)](https://git.io/typing-svg)
 
 ---
 
-### 🛠️ Tech Stack & Tools
-- **OS:** Kali Linux, Parrot Security, Arch Linux
-- **Web:** Burp Suite Professional, OWASP ZAP, SQLmap, Ffuf
-- **Network/Cloud:** Nmap, Metasploit, Wireshark, AWS/Azure Basics
-- **Coding:** Python (Scripting), Bash, JavaScript (Exploitation), Java
+| 🛡️ Security Expertise | 💻 Tech Stack | 🏆 Certifications |
+| :--- | :--- | :--- |
+| Web Application Security | Python & Bash Scripting | eMAPT & eWPTX |
+| Network Pentesting | Kali & Parrot OS | C-AI/MLPen |
+| Red Teaming | Burp Suite & Metasploit | H1 Researcher |
 
 ---
-### 🛠 Languages & Tools
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</div>
+
+### 🛠️ Core Toolkit & Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 📊 System Resilience Metrics
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikpehlivan&theme=tokyonight&area=true&hide_border=true" width="100%" />
+</p>
+
+### 🏅 Badges & Recognition
+<p align="left">
+<a href="https://hackerone.com/ilterispehlivan"><img src="https://img.shields.io/badge/HackerOne-Profile-white?style=flat-square&logo=hackerone" /></a>
+<a href="https://tryhackme.com/p/ikpehlivan"><img src="https://img.shields.io/badge/TryHackMe-Rank-212121?style=flat-square&logo=tryhackme" /></a>
+<img src="https://img.shields.io/badge/GitHub-YOLO-ff69b4?style=flat-square&logo=github" />
+</p>
 
 ---
-### 🏆 Certifications & Achievements
-- **eMAPT**
-- **eWPTX**
-- **C-AI/MLPen**
-- **HackerOne Profile:** [[Account Link](https://hackerone.com/ilterispehlivan?type=user)]
-- **TryHackMe:** [[Account Link](https://tryhackme.com/p/ikpehlivan)]
 
----
+### 📫 Secure Connection
+<p align="left">
+  <a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
-### 📈 GitHub Stats
-![Commits](https://img.shields.io/badge/Commits-500%2B-green?style=for-the-badge&logo=github)
-![Pull Requests](https://img.shields.io/badge/PRs-25%2B-blue?style=for-the-badge&logo=github)
-![Stars](https://img.shields.io/badge/Stars-150%2B-yellow?style=for-the-badge&logo=github)
-![Followers](https://img.shields.io/badge/Followers-100%2B-orange?style=for-the-badge&logo=github)
-
----
-
-### 📫 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilteris-kaan-pehlivan)
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikpehlivan&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
