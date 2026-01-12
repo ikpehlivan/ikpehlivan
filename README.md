@@ -9,7 +9,7 @@
 
 | 🛡️ Security Expertise | 💻 Technical Stack | 🏆 Top Certs |
 | :--- | :--- | :--- |
-| **Web Pentest:** eWPTX | **Python / Go / Bash** | **eMAPT** |
+| **Web Pentest** | **Python / Go / Bash** | **eMAPT** |
 | **Mobile Security** | **Kali / Parrot OS** | **eWPTX** |
 | **Network Audits** | **Docker / AWS** | **C-AI/MLPen** |
 
