@@ -9,7 +9,7 @@ I am a results-driven **Penetration Tester** with over three years of corporate 
 ### 🛡️ Professional Focus
 * **Web Application Security:** Deep understanding of OWASP Top 10, manual exploitation, and business logic vulnerabilities.
 * **Network Pentesting:** Vulnerability assessment, post-exploitation, and internal/external infrastructure testing.
-* **Bug Bounty:** Active **HackerOne** researcher with a focus on high-impact vulnerabilities.
+* **Bug Bounty:** Active **HackerOne** researcher with a focus on vulnerabilities.
 * **Red Teaming:** Exploring new attack vectors to improve defensive resilience.
 
 ---
