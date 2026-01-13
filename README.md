@@ -5,6 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Detecting+Vulnerabilities...;Exploiting+Targets...;Securing+Infrastructures...;Hacking+the+Planet...)](https://git.io/typing-svg)
 
+3CxJJBUbYsJbzccu1KDvdPFsP
 ---
 
 | 🛡️ Security Expertise | 💻 Technical Stack | 🏆 Top Certs |
