@@ -1,52 +1,70 @@
+<!-- =========================
+     PROFILE README (Modern)
+     ========================= -->
+
 <div align="center">
 
-# 🕵️‍♂️ İLTERİS KAAN PEHLİVAN 🕵️‍♂️
-### `OFFENSIVE SECURITY RESEARCHER | PENETRATION TESTER`
+# İlteriş Kaan Pehlivan
+**Offensive Security Researcher · Penetration Tester**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Detecting+Vulnerabilities...;Exploiting+Targets...;Securing+Infrastructures...;Hacking+the+Planet...)](https://git.io/typing-svg)
-
-3CxJJBUbYsJbzccu1KDvdPFsP
----
-
-| 🛡️ Security Expertise | 💻 Technical Stack | 🏆 Top Certs |
-| :--- | :--- | :--- |
-| **Web Pentest** | **Python & Java & Bash** | **eMAPT** |
-| **Mobile Security** | **Kali & Parrot OS** | **eWPTX** |
-| **Network Audits** | **Docker & AWS** | **C-AI/MLPen** |
-
----
-
-### 🛠️ Core Toolkit & Skills 🛠️
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-336699?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<p>
+  <a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/ikpehlivan"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-111?style=flat&logo=github&logoColor=white"></a>
+  <img alt="Focus" src="https://img.shields.io/badge/Focus-Web%20%26%20AppSec-111?style=flat">
+  <img alt="Location" src="https://img.shields.io/badge/Location-Turkiye-111?style=flat">
 </p>
 
----
-
-### 🔗 Connect to Terminal 🔗
-<p align="center">
-<a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p>
+  <sub>Building practical security tooling - from discovery to exploitation to reporting.</sub>
 </p>
 
----
-
-### 🚀 FEATURED PROJECTS 🚀
-
-**[XSS Payload Forge](https://github.com/ikpehlivan/xss-payload-forge)**
-*Advanced XSS payload generation for various injection contexts.*
-
-**[JWT Analyzer](https://github.com/ikpehlivan/jwt-analyzer)**
-*Deep analysis and security auditing tool for JSON Web Tokens.*
-
-**[Mini Web Security Scanner](https://github.com/ikpehlivan/mini-web-security-scanner)**
-*Lightweight automated vulnerability detection engine.*
-
-**[Deser Risk Analyzer](https://github.com/ikpehlivan/deser-risk-analyzer)**
-*Static analysis tool for identifying insecure deserialization patterns.*
+</div>
 
 ---
 
+## What I do
+- Web & API security testing (manual-first, automation-assisted)
+- Mobile security (Android/iOS) & traffic instrumentation
+- Secure code review & vulnerability research
+- PoC development and reproducible reporting
+
+---
+
+## Core Stack
+**Languages:** Python · Java · Bash  
+**Tooling:** Burp Suite · Metasploit · Wireshark  
+**Ops:** Docker · AWS · Kali / Parrot  
+
+---
+
+## Certifications
+- eMAPT
+- eWPTX
+- C-AI/MLPen
+
+---
+
+## Featured Projects
+> A small, curated selection. Full list is pinned on my profile.
+
+- **XSS Payload Forge** — advanced payload generation for diverse contexts  
+  `Repo:` https://github.com/ikpehlivan/xss-payload-forge
+
+- **JWT Analyzer** — deep analysis & auditing for JSON Web Tokens  
+  `Repo:` https://github.com/ikpehlivan/jwt-analyzer
+
+- **Mini Web Security Scanner** — lightweight vuln detection engine  
+  `Repo:` https://github.com/ikpehlivan/mini-web-security-scanner
+
+- **Deser Risk Analyzer** — static analysis for insecure deserialization patterns  
+  `Repo:` https://github.com/ikpehlivan/deser-risk-analyzer
+
+---
+
+## Notes
+- I follow responsible disclosure and do not share exploit code for real-world harm.
+- Prefer reproducible findings with clear impact + remediation guidance.
+
+<div align="center">
+  <sub>Let’s connect: <a href="https://www.linkedin.com/in/ilteris-kaan-pehlivan">LinkedIn</a></sub>
 </div>
