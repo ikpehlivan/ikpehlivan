@@ -33,7 +33,7 @@
 ## Core Stack
 **Languages:** Python · Java · Bash  
 **Tooling:** Burp Suite · Metasploit · Wireshark  
-**Ops:** Docker · AWS · Kali / Parrot  
+**Ops:** Docker · AWS · Kali/Parrot  
 
 ---
 
