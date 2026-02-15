@@ -47,16 +47,16 @@
 ## Featured Projects
 > A small, curated selection. Full list is pinned on my profile.
 
-- **XSS Payload Forge** — advanced payload generation for diverse contexts  
+- **XSS Payload Forge** - advanced payload generation for diverse contexts  
   `Repo:` https://github.com/ikpehlivan/xss-payload-forge
 
-- **JWT Analyzer** — deep analysis & auditing for JSON Web Tokens  
+- **JWT Analyzer** - deep analysis & auditing for JSON Web Tokens  
   `Repo:` https://github.com/ikpehlivan/jwt-analyzer
 
-- **Mini Web Security Scanner** — lightweight vuln detection engine  
+- **Mini Web Security Scanner** - lightweight vuln detection engine  
   `Repo:` https://github.com/ikpehlivan/mini-web-security-scanner
 
-- **Deser Risk Analyzer** — static analysis for insecure deserialization patterns  
+- **Deser Risk Analyzer** - static analysis for insecure deserialization patterns  
   `Repo:` https://github.com/ikpehlivan/deser-risk-analyzer
 
 ---
