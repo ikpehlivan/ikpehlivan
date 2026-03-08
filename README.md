@@ -59,6 +59,8 @@
 - **Deser Risk Analyzer** - static analysis for insecure deserialization patterns  
   `Repo:` https://github.com/ikpehlivan/deser-risk-analyzer
 
+- **DOM XSS Detector** - static/dynamic analysis for DOM XSS  
+  `Repo:` https://github.com/ikpehlivan/dom-xss-detector
 ---
 
 ## Notes
