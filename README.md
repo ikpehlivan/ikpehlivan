@@ -38,9 +38,10 @@
 ---
 
 ## Certifications
-- eMAPT
-- eWPTX
-- C-AI/MLPen
+- eMAPT (Mobile Application Penetration Tester)
+- eWPTXv2 (Web Application Penetration Tester eXtreme)
+- C-AI/MLPen (The Certified AI/ML Pentester)
+- BSCP (The Burp Suite Certified Practitioner)
 
 ---
 
