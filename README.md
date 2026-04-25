@@ -63,7 +63,7 @@
 - **DOM XSS Detector** - static/dynamic analysis for DOM XSS  
   `Repo:` https://github.com/ikpehlivan/dom-xss-detector
 
-- **AD Misconfiguration Scanner** - Active Directory enumeration & misconfiguration detection tool 
+- **AD Misconfiguration Scanner** - Active Directory enumeration & misconfiguration detection  
   `Repo:` https://github.com/ikpehlivan/ad-misconfig-scanner
 ---
 
