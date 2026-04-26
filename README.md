@@ -31,9 +31,9 @@
 ---
 
 ## Core Stack
-**Languages:** Python · Java · Bash  
-**Tooling:** Burp Suite · Metasploit · Wireshark  
-**Ops:** Docker · AWS · Kali/Parrot  
+- **Languages:** · Python · Java · Bash · Go  
+- **Tooling:** · Burp Suite · Metasploit · Cobalt Strike · Powershell Empire
+- **Ops:** Docker · AWS · Kali/Parrot  
 
 ---
 
