@@ -65,6 +65,10 @@
 
 - **AD Misconfiguration Scanner** - Active Directory enumeration & misconfiguration detection  
   `Repo:` https://github.com/ikpehlivan/ad-misconfig-scanner
+
+- **Go-C2-Beacon** - stealth-focused Command & Control (C2) framework  
+  `Repo:` https://github.com/ikpehlivan/Go-C2-Beacon
+
 ---
 
 ## Notes
