@@ -46,7 +46,7 @@
 ---
 
 ## Featured Projects
-> A small, curated selection. Full list is pinned on my profile.
+> A small, curated selection.
 
 - **XSS Payload Forge** - advanced payload generation for diverse contexts  
   `Repo:` https://github.com/ikpehlivan/xss-payload-forge
