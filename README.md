@@ -69,6 +69,9 @@
 - **Go-C2-Beacon** - stealth-focused Command & Control (C2) framework  
   `Repo:` https://github.com/ikpehlivan/Go-C2-Beacon
 
+- **Andro-Deep-Link-Inquisitor** - discovery and security analysis of Deep Links and App Links  
+  `Repo:` https://github.com/ikpehlivan/Andro-Deep-Link-Inquisitor
+
 ---
 
 ## Notes
