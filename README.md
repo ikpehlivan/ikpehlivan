@@ -31,7 +31,7 @@
 ---
 
 ## Core Stack
-- **Languages:** · Python · Java · Bash · Go  
+- **Languages:** · Python · Bash · Go  
 - **Tooling:** · Burp Suite · Metasploit · Cobalt Strike · Powershell Empire
 - **Ops:** Docker · AWS · Kali/Parrot  
 
