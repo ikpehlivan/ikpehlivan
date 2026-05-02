@@ -63,13 +63,13 @@
 - **DOM XSS Detector** - static/dynamic analysis for DOM XSS  
   `Repo:` https://github.com/ikpehlivan/dom-xss-detector
 
-- **AD Misconfiguration Scanner** - Active Directory enumeration & misconfiguration detection  
+- **Active Directory Misconfiguration Scanner** - AD enumeration & misconfiguration detection  
   `Repo:` https://github.com/ikpehlivan/ad-misconfig-scanner
 
-- **Go-C2-Beacon** - stealth-focused Command & Control (C2) framework  
+- **C2 Beacon** - stealth-focused Command & Control (C2) framework  
   `Repo:` https://github.com/ikpehlivan/Go-C2-Beacon
 
-- **Andro-Deep-Link-Inquisitor** - discovery and security analysis of Deep Links and App Links  
+- **Android Deep Link Inquisitor** - discovery and security analysis of Deep Links and App Links  
   `Repo:` https://github.com/ikpehlivan/Andro-Deep-Link-Inquisitor
 
 ---
